@@ -1,7 +1,7 @@
 HaTTiP-Scripts
 ==============
 
-Scripts to use for the HaTTiP web services client
+Scripts to use for the [HaTTiP web services client](http://pilgrimagesoftware.com/products/hattip)
 
 All scripts included here are free to use. If you have any you would like to add, please 
 fork this repository and submit a pull request with your contribution.
