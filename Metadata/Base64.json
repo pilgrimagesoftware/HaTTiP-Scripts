@@ -1,0 +1,7 @@
+{
+"name":"Base64",
+"location":"Base64.js",
+"type":"library-entry",
+"language":"Javascript",
+"order":0
+}
