@@ -3,5 +3,6 @@
 "location":"BasicAuth.js",
 "type":"snippet",
 "language":"Javascript",
-"order":0
+"order":0,
+"dependencies":["Base64"]
 }
